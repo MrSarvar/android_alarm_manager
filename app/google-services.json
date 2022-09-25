@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "913265811259",
+    "project_id": "push-notification-alarm-9768c",
+    "storage_bucket": "push-notification-alarm-9768c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913265811259:android:99d5acc8c15ca32a56e11e",
+        "android_client_info": {
+          "package_name": "com.android.data.push.notification.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913265811259-fvmi44vui96e2pdarattg4s07btn6sr8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbxH_Fc8pF359hZUVs8bVeoHAzo1ZooHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913265811259-fvmi44vui96e2pdarattg4s07btn6sr8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
